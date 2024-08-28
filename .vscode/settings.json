@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "tp0_repaso.h": "c",
+        "stdio.h": "c",
+        "funciones.h": "c",
+        "validaciones.h": "c"
+    }
+}
