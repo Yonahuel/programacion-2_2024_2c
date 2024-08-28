@@ -77,6 +77,34 @@ build CMakeFiles/TP_1.dir/test/TestEjercicio1.c.o: C_COMPILER__TP_1_unscanned_De
   OBJECT_DIR = CMakeFiles/TP_1.dir
   OBJECT_FILE_DIR = CMakeFiles/TP_1.dir/test
 
+build CMakeFiles/TP_1.dir/ejercicios/Ejercicio_2.c.o: C_COMPILER__TP_1_unscanned_Debug /home/nahuel/Documentos/UNLU/Programación$ 2/TP$ 1/ejercicios/Ejercicio_2.c || cmake_object_order_depends_target_TP_1
+  DEP_FILE = CMakeFiles/TP_1.dir/ejercicios/Ejercicio_2.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/." -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/headers"
+  OBJECT_DIR = CMakeFiles/TP_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP_1.dir/ejercicios
+
+build CMakeFiles/TP_1.dir/ejercicios/Ejercicio_3.c.o: C_COMPILER__TP_1_unscanned_Debug /home/nahuel/Documentos/UNLU/Programación$ 2/TP$ 1/ejercicios/Ejercicio_3.c || cmake_object_order_depends_target_TP_1
+  DEP_FILE = CMakeFiles/TP_1.dir/ejercicios/Ejercicio_3.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/." -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/headers"
+  OBJECT_DIR = CMakeFiles/TP_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP_1.dir/ejercicios
+
+build CMakeFiles/TP_1.dir/ejercicios/Ejercicio_4.c.o: C_COMPILER__TP_1_unscanned_Debug /home/nahuel/Documentos/UNLU/Programación$ 2/TP$ 1/ejercicios/Ejercicio_4.c || cmake_object_order_depends_target_TP_1
+  DEP_FILE = CMakeFiles/TP_1.dir/ejercicios/Ejercicio_4.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/." -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/headers"
+  OBJECT_DIR = CMakeFiles/TP_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP_1.dir/ejercicios
+
+build CMakeFiles/TP_1.dir/test/TestEjercicio2.c.o: C_COMPILER__TP_1_unscanned_Debug /home/nahuel/Documentos/UNLU/Programación$ 2/TP$ 1/test/TestEjercicio2.c || cmake_object_order_depends_target_TP_1
+  DEP_FILE = CMakeFiles/TP_1.dir/test/TestEjercicio2.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/." -I"/home/nahuel/Documentos/UNLU/Programación 2/TP 1/headers"
+  OBJECT_DIR = CMakeFiles/TP_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP_1.dir/test
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target TP_1
@@ -85,7 +113,7 @@ build CMakeFiles/TP_1.dir/test/TestEjercicio1.c.o: C_COMPILER__TP_1_unscanned_De
 #############################################
 # Link the executable TP_1
 
-build TP_1: C_EXECUTABLE_LINKER__TP_1_Debug CMakeFiles/TP_1.dir/ejercicios/Ejercicio_8.c.o CMakeFiles/TP_1.dir/main.c.o CMakeFiles/TP_1.dir/ejercicios/Ejercicio_1.c.o CMakeFiles/TP_1.dir/test/TestEjercicio1.c.o
+build TP_1: C_EXECUTABLE_LINKER__TP_1_Debug CMakeFiles/TP_1.dir/ejercicios/Ejercicio_8.c.o CMakeFiles/TP_1.dir/main.c.o CMakeFiles/TP_1.dir/ejercicios/Ejercicio_1.c.o CMakeFiles/TP_1.dir/test/TestEjercicio1.c.o CMakeFiles/TP_1.dir/ejercicios/Ejercicio_2.c.o CMakeFiles/TP_1.dir/ejercicios/Ejercicio_3.c.o CMakeFiles/TP_1.dir/ejercicios/Ejercicio_4.c.o CMakeFiles/TP_1.dir/test/TestEjercicio2.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/TP_1.dir
   POST_BUILD = :

@@ -20,4 +20,8 @@ add_executable(TP_1
         headers/Ejercicio_6_Header.h
         headers/Ejercicio_7_Header.h
         headers/Ejercicio_9_Header.h
-        headers/Ejercicio_10_Header.h)
+        headers/Ejercicio_10_Header.h
+        ejercicios/Ejercicio_2.c
+        ejercicios/Ejercicio_3.c
+        ejercicios/Ejercicio_4.c
+        test/TestEjercicio2.c)
