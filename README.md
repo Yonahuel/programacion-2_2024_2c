@@ -1,8 +1,8 @@
-# Programacion2
+# Programación 2
 
-##Integrantes:
-Nahuel Cueto
-Renzo Martin Bisso
-Lucio Ameri
-Augusto Rolandelli
-Melany Ortiz
+## Integrantes:
+- **Nahuel Cueto**
+- **Renzo Martin Bisso**
+- **Lucio Ameri**
+- **Augusto Rolandelli**
+- **Melany Ortiz**
