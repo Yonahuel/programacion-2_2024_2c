@@ -1,3 +1,0 @@
-/home/nahuel/Documentos/UNLU/Programación 2/TP 1/cmake-build-debug/CMakeFiles/TP_1.dir
-/home/nahuel/Documentos/UNLU/Programación 2/TP 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nahuel/Documentos/UNLU/Programación 2/TP 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
