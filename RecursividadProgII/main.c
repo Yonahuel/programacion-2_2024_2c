@@ -20,7 +20,7 @@ int main(){
         printf(" Ingrese '8' para realizar el ejercicio 8 del practico!\n");
         printf(" Ingrese '9' para realizar el ejercicio 9 del practico!\n");
         printf(" Ingrese '10' para realizar el ejercicio 10 del practico!\n");
-        printf(" Ingrese '0' para realizar el ejercicio 1 del practico!\n\n");
+        printf(" Ingrese '0' para salir del programa!\n\n");
         printf(" Ingrese la opcion: ");
 
         bandera = Ingresar_Entero_Positivo();

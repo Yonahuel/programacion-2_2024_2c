@@ -13,7 +13,15 @@ void ejercicio3(){
 
         printf("\t\t\t Bienvenido al programa 'SERIE DE FIBONACCI'!!\n\n");
 
-        printf(" Ingrese un NUMERO ENTERO POSITIVO para calcular su SERIE DE FIBONACCI: "); numero = Ingresar_Entero_Positivo();
+        do {
+            printf(" Ingrese un NUMERO ENTERO POSITIVO (maximo 45) para calcular su SERIE DE FIBONACCI: ");
+            numero = Ingresar_Entero_Positivo();
+
+            if (numero > 45) {
+                printf(" Ingreso invalido! El numero no debe ser mayor a 45.\n");
+            }
+        } while (numero > 45);
+
 
         resultado = terminoSeridFibonacci(numero);
 

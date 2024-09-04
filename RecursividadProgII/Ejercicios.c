@@ -3,11 +3,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <string.h>
 
 
 //ejercicio 1.
 
 bool palindromo(char cadena_caracteres[]){
+
+    for (int i = 0; cadena_caracteres[i]; i++) {
+        cadena_caracteres[i] = tolower(cadena_caracteres[i]);
+    }
 
     int principio = 0;
     int final = strlen(cadena_caracteres);
@@ -16,11 +21,11 @@ bool palindromo(char cadena_caracteres[]){
 }
 
 bool palindromo_recursivo(char cadena_caracteres[], int principio, int final){
-
     if(principio >= final){
 
         return true;
     }
+
 
     if(cadena_caracteres[principio] != cadena_caracteres[final]){
 
@@ -29,6 +34,8 @@ bool palindromo_recursivo(char cadena_caracteres[], int principio, int final){
 
     palindromo_recursivo(cadena_caracteres, principio + 1, final - 1);
 }
+
+
 
 void Mostrar_Resultado_ejercicio1(bool resultado, char cadena_caracteres[]){
 
