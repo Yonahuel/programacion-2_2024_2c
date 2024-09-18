@@ -224,3 +224,88 @@
 	<string.h>
 	<ctype.h>
 
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio1.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicios.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
+1725485497 c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio10.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Ejercicios.h"
+	"validaciones.h"
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio2.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio4.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio5.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio6.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio7.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio8.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\ejercicio9.c
+	"Ejercicios.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1725485497 source:c:\users\renzo\documents\github\programacion-2_2024_2c\recursividadprogii\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
