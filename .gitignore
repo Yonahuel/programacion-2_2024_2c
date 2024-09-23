@@ -7,6 +7,13 @@
 *.obj
 *.elf
 
+*.cbp
+*.depend
+*.layout
+/bin/
+/obj/
+
+
 # Linker output
 *.ilk
 *.map
