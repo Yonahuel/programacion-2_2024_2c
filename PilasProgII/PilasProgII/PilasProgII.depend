@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1727316668 source:c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\funciones.c
+	"pilas.h"
+	"funciones.h"
+	"tipo_elemento.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1727316668 c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1727316483 c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\tipo_elemento.h
+
+1727316668 c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\funciones.h
+	<stdbool.h>
+	"pilas.h"
+
+1727316398 c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
+1727316668 source:c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\main.c
+	"pilas.h"
+	"funciones.h"
+	"tipo_elemento.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1727316632 source:c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\pilas_punteros.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1727316668 source:c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1727316668 source:c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\validaciones_numeros.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
+1727316668 source:c:\users\renzo\documents\github\programacion-2_2024_2c\pilasprogii\pilasprogii\validaciones_strings.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
