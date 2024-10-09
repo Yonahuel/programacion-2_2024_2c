@@ -14,7 +14,7 @@ Y DESHABILITAR EL MAIN PARA CADA PUNTO DEL EJERCICIOO, ENTONCES TERMINAMOS HACIE
 */
 
 /*
-Para ejecutar este tp en codeblocks hay que ir deshabilitando los ejercicios que no se usan y habilitar solo el que se va a usar.
+Para ejecutar este tp en codeblocks hay que ir deshabilitando los ejercicios que no se usan y habilitar solo el que se va a usar y antes de ejecutarlo hay que hacer un rebuild.
 
 */
 

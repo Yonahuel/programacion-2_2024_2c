@@ -23,7 +23,7 @@ no ser la misma en todas sus corridas. Con los 2 bucles seria N + N, mejor dicho
 
 */
 /*
-Para ejecutar este tp en codeblocks hay que ir deshabilitando los ejercicios que no se usan y habilitar solo el que se va a usar.
+Para ejecutar este tp en codeblocks hay que ir deshabilitando los ejercicios que no se usan y habilitar solo el que se va a usar y antes de ejecutarlo hay que hacer un rebuild.
 
 */
 

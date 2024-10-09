@@ -22,7 +22,7 @@ tercer estructura segun el caso, la complejidad aumenta, llegando a que la ecuac
 */
 
 /*
-Para ejecutar este tp en codeblocks hay que ir deshabilitando los ejercicios que no se usan y habilitar solo el que se va a usar.
+Para ejecutar este tp en codeblocks hay que ir deshabilitando los ejercicios que no se usan y habilitar solo el que se va a usar y antes de ejecutarlo hay que hacer un rebuild.
 
 */
 
