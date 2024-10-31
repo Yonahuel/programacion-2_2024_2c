@@ -12,7 +12,7 @@
 *.layout
 /bin
 /obj
-
+.vscode
 
 # Linker output
 *.ilk
